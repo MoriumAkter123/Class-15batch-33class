@@ -1,0 +1,33 @@
+
+
+=======Function=======
+
+=====Rules :1====
+
+function funtion name()
+{
+    
+    ///body......
+
+}
+
+function name();
+
+======Rules:2====
+
+function funtion name(parametar/variable declare)
+{
+    
+    ///body......
+
+}
+
+function name();
+
+
+
+======DOM======
+DOM(AR maddhome console ar likha browser a dekha jai) = Document Object Model
+
+Event(Small letter likhte hoi) = [ click here, Onchange, onkeyup,onkeydown,onmouseover,
+                                 onmousout,onkeypress,onsubmit,onload,onscroll ]
